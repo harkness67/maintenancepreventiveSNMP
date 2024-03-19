@@ -1,0 +1,163 @@
+
+
+--- RAPPORT D'EXÉCUTION - 2023-08-21 11:54:46 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 172.20.2.169 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.30.106.172 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.6.14 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 170.203.6.68 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.20.53 réussie.
+
+ERREURS :
+- Erreur lors de la récupération des informations de l'imprimante à l'adresse 172.18.150.184
+- Erreur lors de la récupération des informations de l'imprimante à l'adresse 170.216.6.18
+
+
+--- RAPPORT D'EXÉCUTION - 2023-08-21 11:55:26 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 172.20.2.169 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.30.106.172 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.6.14 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 170.203.6.68 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.20.53 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.20.2.169 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.30.106.172 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.6.14 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 170.203.6.68 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.20.53 réussie.
+
+ERREURS :
+- Erreur lors de la récupération des informations de l'imprimante à l'adresse 172.18.150.184
+- Erreur lors de la récupération des informations de l'imprimante à l'adresse 170.216.6.18
+
+
+--- RAPPORT D'EXÉCUTION - 2023-08-21 11:58:17 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 172.20.2.169 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.30.106.172 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.6.14 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 170.203.6.68 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.20.53 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.20.2.169 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.30.106.172 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.6.14 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 170.203.6.68 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.20.53 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.20.2.169 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.30.106.172 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.6.14 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 170.203.6.68 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 172.23.20.53 réussie.
+
+ERREURS :
+- Erreur lors de la récupération des informations de l'imprimante à l'adresse 172.18.150.184
+- Erreur lors de la récupération des informations de l'imprimante à l'adresse 170.216.6.18
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:20:06 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:23:36 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:25:56 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:31:46 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:32:12 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:36:41 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:37:08 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:38:16 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:45:09 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:46:54 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
+
+
+--- RAPPORT D'EXÉCUTION - 2024-03-14 15:51:41 ---
+===================
+
+SUCCÈS :
+- Récupération des informations pour l'imprimante à l'adresse 10.208.174.56 réussie.
+
+ERREURS :
